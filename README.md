@@ -18,7 +18,7 @@
 ### 🧑‍💻 Projects
 
 - [Basket-Buffer](https://github.com/mahdiat-t/Basket-Buffer)
-
+- [DSA-Visualizer](https://github.com/mahdiat-t/DSA-Visualizer)
 *Interested in collaborating or sharing ideas? Feel free to connect!*
 
 ---
