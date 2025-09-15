@@ -11,7 +11,6 @@
 - 💻 Coding in **C, C++, Java**; know a little Python (always eager to expand my toolkit!)
 - 📚 Still exploring all the amazing fields in tech  
 - 🕵️‍♂️ My mission: *To learn and explore the opportunities that come my way*
-- ✨ Check out my project: [Basket-Buffer](https://github.com/mahdiat-t/Basket-Buffer)
 
 ---
 
